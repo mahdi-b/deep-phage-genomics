@@ -2,3 +2,5 @@
 blast_analysis/temp_outs.tar.gz
 blast_analysis/temp_outs/
 blast_analysis/test/
+blast_analysis/seq_1.fasta
+blast_analysis/seq_2.fasta
